@@ -1,6 +1,6 @@
 # multiselectspinner
 
-A simple multiple spinner selection library.
+A simple multiple spinner selection library works from API 15 and onwards.
 This library can help you to select multiple objects from list. Library not only supports normal String list but also supports your own custom class.
  
 No need to set adapter. Just pass list contains and fieldName which you want to see on Spinner.
