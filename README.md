@@ -24,7 +24,7 @@ To use this:
 	        compile 'com.github.TongaonkarYash:multiselectspinner:1.0'
 	}
  ```
-- Most important while using this library is you have to pass List of Object to multiSelectSpinner.setItems(List<Object>, <fieldName>);
+- Most important while using this library is you have to pass List of Object to multiSelectSpinner.setItems(List<Object>, "fieldName");
  
 - To use this with simple String list use it like:
 ```java
